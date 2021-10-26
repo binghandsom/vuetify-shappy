@@ -1,0 +1,2 @@
+# vuetify-shappy
+Web page using Vuetify Js,with topics about sharing happiness in out lives.If you want contribute to this project,you will be welcomed.By the middle period of this project,we will continue to put on backend services.Publish our website.The site will be opened to every one for sharing good things.And if we possiblely earned some money,we will distribute to our project developers denpending on  the contribution one makes.Much work and much deal.This is the project introduction.Any questions can be written on issues page. 
